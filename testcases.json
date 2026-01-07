@@ -143,3 +143,14 @@
       "CI": 4,
       "ImpactScore": "",
       "Priority": "",
+      "AutomationStatus": "Automated",
+      "ScriptPath": "/scripts/pinchange/TC-ATM-PNC-001.py",
+      "ExecutionTimeSec": 35,
+      "LastExecutionStatus": "Not Executed",
+      "FailureCount": 0,
+      "LinkedUserStory": "US-ATM-005",
+      "LinkedPRFile": "PR-ATM-109",
+      "LastModifiedDate": "2024-06-11"
+    }
+  ]
+}
