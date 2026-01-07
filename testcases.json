@@ -151,6 +151,41 @@
       "LinkedUserStory": "US-ATM-005",
       "LinkedPRFile": "PR-ATM-110",
       "LastModifiedDate": "2024-06-11"
-    }
+    },
+    
+  {
+    "test_case_id": "TC-ATM-MST-009",
+    "title": "View mini statement on screen successfully",
+    "module": "Mini Statement",
+    "BC": 3,
+    "CF": 3,
+    "DP": 2,
+    "CI": 2,
+    "automation_status": "Automated",
+    "script_path": "/scripts/statement/TC-ATM-MST-001.py",
+    "execution_time_sec": 25,
+    "execution_status": "Not Executed",
+    "defects_count": 0,
+    "user_story_id": "US-ATM-006",
+    "requirement_id": "PR-ATM-111",
+    "last_updated": "2024-06-11"
+  },
+  {
+    "test_case_id": "TC-ATM-SSN-010",
+    "title": "Session times out at main menu due to inactivity",
+    "module": "Session Management",
+    "BC": 3,
+    "CF": 5,
+    "DP": 2,
+    "CI": 2,
+    "automation_status": "Automated",
+    "script_path": "/scripts/session/TC-ATM-SSN-001.py",
+    "execution_time_sec": 70,
+    "execution_status": "Not Executed",
+    "defects_count": 0,
+    "user_story_id": "US-ATM-008",
+    "requirement_id": "PR-ATM-113",
+    "last_updated": "2024-06-11"
+  }
   ]
 }
